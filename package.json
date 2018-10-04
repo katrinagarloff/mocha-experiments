@@ -1,0 +1,29 @@
+{
+  "name": "mocha-experiments",
+  "version": "1.0.0",
+  "description": "\"experimenting with writing mocha tests\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/katrinagarloff/mocha-experiments.git"
+  },
+  "keywords": [
+    "git",
+    "push",
+    "-u",
+    "origin",
+    "master"
+  ],
+  "author": "\"Katrina Garloff\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katrinagarloff/mocha-experiments/issues"
+  },
+  "homepage": "https://github.com/katrinagarloff/mocha-experiments#readme"
+}
